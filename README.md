@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-end development<br>🤝 I’m looking for help to get a job opportunity<br>🌱 I’m currently learning 
+🔭 I’m currently working on Front-end development<br>🤝 I’m looking for help to get a job opportunity<br>🌱 I'm in love Javascript
 
 
 # 💻 Tech Stack:
